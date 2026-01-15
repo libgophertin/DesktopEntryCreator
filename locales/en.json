@@ -13,11 +13,11 @@
   },
   "errors": {
     "input_empty": "Input error or empty value!",
-    "file_not_found": "File %s does not exist",
+    "file_not_found": "File %s does not exist\n",
     "home_dir": "Could not find home directory",
     "write_file": "Failed to write file"
   },
   "messages": {
-    "success": "File %s was successfully created at %s"
+    "success": "File %s was successfully created at %s\n"
   }
 }
